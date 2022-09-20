@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 450,
+    "title": "US National Park visitation in 2021",
+    "projection": {
+        "type": "albersUsa"
+    },
+    "layer": [
+        {
+            "data": {
+                "url": "js/ne_50m_admin_1_states_provinces.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_50m_admin_1_states_provinces"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "#f0f2f5",
+                "stroke": "darkgrey"
+            }
+        },
+        {
+            "data": {
+                "url": "data/nationalParkStats2021.csv"
+            },
+            "mark": {
+                "type": "circle",
+                "color": "lightseagreen",
+                "stroke": "black",
+                "strokeWidth": 0.5
+            },
+            "encoding": {
+                "latitude": {
+                    "field": "Latitude",
+                    "type": "quantitative"
+                },
+                "longitude": {
+                    "field": "Longitude",
+                    "type": "quantitative"
+                },
+                "size": {
+                    "field": "Recreation Visits",
+                    "type": "quantitative",
+                    "title": "Visits",
+                    "scale": {
+                        "domain": [10000, 15000000]
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "Name"
+                    },
+                    {
+                        "field": "Recreation Visits",
+                        "title": "Visits",
+                        "format": ","
+                    }
+                ]
+            }   
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+﻿Park,Name,Unit Code,Park Type,Region,State,Year,Recreation Visits,Tent Campers,RV Campers,Backcountry Campers,Latitude,Longitude
+Acadia NP,Acadia National Park,ACAD,National Park,Northeast ,ME,2021,4069098,107758,40672,1612,44.35,-68.21
+Arches NP,Arches National Park,ARCH,National Park,Intermountain ,UT,2021,1806865,13746,15294,312,38.68,-109.57
+Badlands NP,Badlands National Park,BADL,National Park,Midwest ,SD,2021,1224226,3194,688,3534,43.75,-102.5
+Big Bend NP,Big Bend National Park,BIBE,National Park,Intermountain ,TX,2021,581220,48224,24688,29692,29.25,-103.25
+Biscayne NP,Biscayne National Park,BISC,National Park,Southeast ,FL,2021,705655,2240,0,0,25.65,-80.08
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,BLCA,National Park,Intermountain ,CO,2021,308910,17020,13825,2035,38.57,-107.72
+Bryce Canyon NP,Bryce Canyon National Park,BRCA,National Park,Intermountain ,UT,2021,2104600,51524,39051,2063,37.57,-112.18
+Canyonlands NP,Canyonlands National Park,CANY,National Park,Intermountain ,UT,2021,911594,9517,7744,90466,38.2,-109.93
+Capitol Reef NP,Capitol Reef National Park,CARE,National Park,Intermountain ,UT,2021,1405353,20263,30924,4490,38.2,-111.17
+Carlsbad Caverns NP,Carlsbad Caverns National Park,CAVE,National Park,Intermountain ,NM,2021,349244,0,0,191,32.17,-104.44
+Channel Islands NP,Channel Islands National Park,CHIS,National Park,Pacific West ,CA,2021,319252,0,0,24529,34.01,-119.42
+Congaree NP,Congaree National Park,CONG,National Park,Southeast ,SC,2021,215181,0,0,1416,33.78,-80.78
+Crater Lake NP,Crater Lake National Park,CRLA,National Park,Pacific West ,OR,2021,647751,0,0,2279,42.94,-122.1
+Cuyahoga Valley NP,Cuyahoga Valley National Park,CUVA,National Park,Midwest ,OH,2021,2575275,0,0,0,41.24,-81.55
+Death Valley NP,Death Valley National Park,DEVA,National Park,Pacific West ,CA,2021,1146551,87672,93046,3882,36.24,-116.82
+Dry Tortugas NP,Dry Tortugas National Park,DRTO,National Park,Southeast ,FL,2021,83817,6574,0,0,24.63,-82.87
+Everglades NP,Everglades National Park,EVER,National Park,Southeast ,FL,2021,942130,0,0,26789,25.32,-80.93
+Gateway Arch NP,Gateway Arch National Park,JEFF,National Park,Midwest ,MO,2021,1145081,0,0,0,38.63,-90.19
+Glacier NP,Glacier National Park,GLAC,National Park,Intermountain ,MT,2021,3081656,81037,85365,33548,48.8,-114
+Grand Canyon NP,Grand Canyon National Park,GRCA,National Park,Intermountain ,AZ,2021,4532677,119531,55661,332295,36.06,-112.14
+Grand Teton NP,Grand Teton National Park,GRTE,National Park,Intermountain ,WY,2021,3885230,0,0,44435,43.73,-110.8
+Great Basin NP,Great Basin National Park,GRBA,National Park,Pacific West ,NV,2021,144875,26909,21676,252,38.98,-114.3
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,GRSA,National Park,Intermountain ,CO,2021,2285333,46822,40089,25575,37.73,-105.51
+Great Smoky Mountains NP,Great Smoky Mountains National Park,GRSM,National Park,Southeast ,TN,2021,14161548,191432,151358,107581,35.68,-83.53
+Guadalupe Mountains NP,Guadalupe Mountains National Park,GUMO,National Park,Intermountain ,TX,2021,243291,13789,8830,2572,31.92,-104.87
+Hot Springs NP,Hot Springs National Park,HOSP,National Park,Midwest ,AR,2021,2162884,1179,31469,0,34.51,-93.05
+Indiana Dunes NP,Indiana Dunes National Park,INDU,National Park,Midwest ,IN,2021,3177210,21474,7917,0,41.6533,-87.0524
+Isle Royale NP,Isle Royale National Park,ISRO,National Park,Midwest ,MI,2021,25844,6450,0,32128,48.1,-88.55
+Joshua Tree NP,Joshua Tree National Park,JOTR,National Park,Pacific West ,CA,2021,3064400,198248,75690,14916,33.79,-115.9
+Kings Canyon NP,Kings Canyon National Park,KICA,National Park,Pacific West ,CA,2021,562918,135611,37842,12297,36.8,-118.55
+Lassen Volcanic NP,Lassen Volcanic National Park,LAVO,National Park,Pacific West ,CA,2021,359635,40185,20814,3034,40.49,-121.51
+Mammoth Cave NP,Mammoth Cave National Park,MACA,National Park,Southeast ,KY,2021,515774,39411,17432,4518,37.18,-86.1
+Mesa Verde NP,Mesa Verde National Park,MEVE,National Park,Intermountain ,CO,2021,548477,24482,28450,0,37.18,-108.49
+Mount Rainier NP,Mount Rainier National Park,MORA,National Park,Pacific West ,WA,2021,1670063,56183,24463,58365,46.85,-121.75
+New River Gorge NP & PRES,Great Sand Dunes National Park,NERI,National Park,Northeast ,WV,2021,2285333,46822,40089,25575,37.9,-81.04
+North Cascades NP,North Cascades National Park,NOCA,National Park,Pacific West ,WA,2021,17855,0,0,14020,48.7,-121.2
+Olympic NP,Olympic National Park,OLYM,National Park,Pacific West ,WA,2021,2718925,154166,93269,138140,47.97,-123.5
+Petrified Forest NP,Petrified Forest National Park,PEFO,National Park,Intermountain ,AZ,2021,590334,0,0,624,35.07,-109.78
+Pinnacles NP,Pinnacles National Park,PINN,National Park,Pacific West ,CA,2021,348857,0,0,0,36.48,-121.16
+Redwood NP,Redwood National Park,REDW,National Park,Pacific West ,CA,2021,435879,3940,0,12271,41.3,-124
+Rocky Mountain NP,Rocky Mountain National Park,ROMO,National Park,Intermountain ,CO,2021,4434848,55920,32148,39384,40.4,-105.58
+Saguaro NP,Saguaro National Park,SAGU,National Park,Intermountain ,AZ,2021,1079786,0,0,4015,32.25,-110.5
+Sequoia NP,Sequoia National Park,SEQU,National Park,Pacific West ,CA,2021,1059548,91243,22456,33155,36.43,-118.68
+Shenandoah NP,Shenandoah National Park,SHEN,National Park,Northeast ,VA,2021,1592312,133749,76281,68824,38.53,-78.35
+Theodore Roosevelt NP,Theodore Roosevelt National Park,THRO,National Park,Midwest ,ND,2021,796085,15742,22096,1054,46.97,-103.45
+Voyageurs NP,Voyageurs National Park,VOYA,National Park,Midwest ,MN,2021,243042,0,0,74000,48.5,-92.88
+White Sands NP,White Sands National Park,WHSA,National Park,Intermountain ,NM,2021,782469,0,0,0,32.77,-106.17
+Wind Cave NP,Wind Cave National Park,WICA,National Park,Midwest ,SD,2021,709001,5297,5940,473,43.57,-103.48
+Yellowstone NP,Yellowstone National Park,YELL,National Park,Intermountain ,WY,2021,4860242,52511,59365,43355,44.6,-110.5
+Yosemite NP,Yosemite National Park,YOSE,National Park,Pacific West ,CA,2021,3287595,188179,149192,174839,37.83,-119.5
+Zion NP,Zion National Park,ZION,National Park,Intermountain ,UT,2021,5039835,138730,89919,15071,37.3,-113.05

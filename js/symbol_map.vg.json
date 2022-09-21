@@ -23,7 +23,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/yyhav1/fit3179_week09/main/data/nationalParkStatsSum.csv"
+                "url": "https://raw.githubusercontent.com/yyhav1/fit3179_week09/main/data/nationalParkStats2021.csv"
             },
             "mark": {
                 "type": "circle",
@@ -41,7 +41,7 @@
                     "type": "quantitative"
                 },
                 "size": {
-                    "field": "Visits",
+                    "field": "Recreation Visits",
                     "type": "quantitative",
                     "title": "Visits",
                     "scale": {
